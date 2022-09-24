@@ -1,11 +1,11 @@
 ### Hey 👋, I'm Mohammad Ibrahim !
-#### I'm Interested In WEB Design And Development. And Familier with PHP, JavaScript, React, FireBase
+#### I'm Interested In WEB Design And Development. And Familier with PHP, JavaScript, React,  Wordpress theme and plugin development
 ![Design And Development](https://i.ibb.co/BfK3H8v/Whats-App-Image-2022-09-24-at-8-48-22-PM.jpg)
 
 
 <h1>I'm PHP, React JS & Wordpress theme and plugin Developer</h1>
 
-Skills: JavaScript, TypeScript, React, React Native, MongoDB, FireBase, Redux, GraphQL, Node, Express
+Skills:PHP, JavaScript, React, FireBase, Node, Wordpress theme and plugin development
 
 - 🔭 I’m currently working on my own projects 
 - 🌱 I’m currently learning Node 
@@ -19,5 +19,5 @@ Skills: JavaScript, TypeScript, React, React Native, MongoDB, FireBase, Redux, G
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ikardi420&show_icons=true)  
 <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a>
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="ikardi420-934a3a243" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://bd.linkedin.com/in/muhammad-faahem-934a3a243?trk=profile-badge">Mohammad Ibrahim</a></div>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="ikardi420-934a3a243" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/ibrahimkardi/">Mohammad Ibrahim</a></div>
               
