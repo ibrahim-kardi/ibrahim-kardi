@@ -3,7 +3,7 @@
 ![Design And Development]
 
 
-<h1>I'm PHP, React JS & Wordpress theme and plugin Developer</h1>
+<h1>I'm PHP, React JS & WordPress theme and plugin Developer</h1>
 
 Skills:PHP, JavaScript, React, FireBase, Node, Wordpress theme and plugin development
 
