@@ -1,5 +1,5 @@
 ### Hey 👋, I'm Mohammad Ibrahim !
-#### I'm Interested In WEB Design And Development. And Familier with PHP, JavaScript, React,  Wordpress theme and plugin development
+#### I'm Interested In WEB Design And Development. And Familier with PHP, JavaScript, React,  WordPress theme and plugin development
 ![Design And Development]
 
 
