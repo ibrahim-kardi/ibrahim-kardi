@@ -5,7 +5,7 @@
 
 <h1>I'm PHP, React JS & WordPress theme and plugin Developer</h1>
 
-Skills:PHP, JavaScript, React, FireBase, Node, WordPress theme and plugin development
+Skills:PHP, JavaScript, React, FireBase, Node, WordPress theme and plugin development, Technical customer support
 
 - 🔭 I’m currently working on my own projects 
 - 🌱 I’m currently learning Node 
