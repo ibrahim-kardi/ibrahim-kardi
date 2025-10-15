@@ -1,13 +1,13 @@
 ### Hey 👋, I'm Mohammad Ibrahim !
-#### I'm a Fullstack Developer. And Familier with PHP,HTML,CSS, JavaScript, React, python, Go,  WordPress theme and plugin development
+#### I'm a Fullstack Developer. And Familier with PHP,HTML,CSS, JavaScript, React, python, Go, AI application development and integration,  WordPress theme and plugin development
 ![Design And Development]
 
 
-<h1>I'm PHP, React JS & WordPress theme and plugin Developer</h1>
+<h1>I'm Fullstack Developer</h1>
 
-Skills:PHP, JavaScript, React, FireBase, Go, Node, WordPress theme and plugin development, Technical customer support
+Skills:PHP, Python (ML), JavaScript, React, FireBase, Go, Node, WordPress theme and plugin development, Technical customer support
 
-- 🔭 I’m currently working on my own projects 
+- 🔭 I’m currently working
 - 🌱 I’m currently learning Node 
 
 
